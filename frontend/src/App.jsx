@@ -19,7 +19,7 @@ function App() {
 
 		<div className="App">
 			{/* TODO: include an icon for the quote book */}
-			M
+			
 			<BsBookmarkCheck className="icon" />
 			<h1>Hack @ UCI Tech Deliverable</h1>
 
